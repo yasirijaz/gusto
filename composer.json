@@ -1,0 +1,20 @@
+{
+    "name": "yasirijaz/gusto",
+    "type": "library",
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.8",
+        "guzzlehttp/promises": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yasirijaz\\Gusto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yasir",
+            "email": "yasirijazkhan@gmail.com"
+        }
+    ]
+}
